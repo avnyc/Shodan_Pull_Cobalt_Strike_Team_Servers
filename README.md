@@ -9,11 +9,12 @@ I am currently paying for the Freelancer API. I don't have access to the higher 
 
 This code will be revamped! This is NOT the final version. I plan on modifying results with the CN field and breaking out the domains for our DNS tool among others.
 
-The code has 6 main functions:
+The code has 7 main functions:
   1. shodan_team_server_basic()
   2. shodan_team_server_certificates()
   3. shodan_team_server_watermarks()
   4. shodan_team_server_port_hash()
   5. shodan_team_server_jarm_and_defaults()
-  6. ip_domain_hostname_aggregator()
+  6. team_server_hostname_aggregator()
+  7. metasploit()
  

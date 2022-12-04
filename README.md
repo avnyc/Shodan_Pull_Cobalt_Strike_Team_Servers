@@ -5,7 +5,7 @@ I want to thank another Mike for pointing me to Shodan. The man has forgotten mo
 I want to thank Salesforce for creating JARM.
 I want to thank this github page for their JARM list: https://github.com/carbonblack/active_c2_ioc_public/blob/main/cobaltstrike/JARM/jarm_cs_202107_uniq_sorted.txt.
 I want to thank Shodan for their data. The results are theirs.
-I am currently paying for the Freeancer API. I don't have access to the higher tiers. 
+I am currently paying for the Freelancer API. I don't have access to the higher tiers. 
 
 This code will be revamped! This is NOT the final version. I plan on modifying results with the CN field.
 

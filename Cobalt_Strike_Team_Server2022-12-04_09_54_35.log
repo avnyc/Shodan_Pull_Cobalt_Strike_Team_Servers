@@ -1,0 +1,79 @@
+2022-12-04 09:55:22,165:INFO:Total default simplified Cobalt Strike results are 1437
+2022-12-04 09:55:22,165:INFO:Code took 0.705 minutes to execute so far.
+2022-12-04 09:55:22,165:INFO:-------------------------------------------------------------------------------------
+2022-12-04 09:55:22,165:INFO:
+
+2022-12-04 09:55:34,825:INFO:Total certificate Cobalt Strike results are 392 for ssl.cert.serial:146473198
+2022-12-04 09:55:41,171:INFO:Total certificate Cobalt Strike results are 42 for ssl.cert.serial:305419896
+2022-12-04 09:55:42,433:WARNING:Total certificate Cobalt Strike results are 0 for ssl.cert.serial:1873433027
+2022-12-04 09:55:47,391:INFO:Total certificate Cobalt Strike results are 93 for ssl.cert.serial:16777216
+2022-12-04 09:55:48,725:WARNING:Total certificate Cobalt Strike results are 0 for ssl.cert.serial:1359593325
+2022-12-04 09:55:48,900:INFO:Total Cobalt Strike servers found via default and cracked certificates are 527
+2022-12-04 09:55:48,900:INFO:Code took 1.150 minutes to execute so far.
+2022-12-04 09:55:48,900:INFO:-------------------------------------------------------------------------------------
+2022-12-04 09:55:48,900:INFO:
+
+2022-12-04 09:55:53,166:INFO:Total Cobalt Strike servers found via watermarks are 62
+2022-12-04 09:55:53,166:INFO:Code took 1.221 minutes to execute so far.
+2022-12-04 09:55:53,166:INFO:---------------------------------------------------------------------------------
+2022-12-04 09:55:53,166:INFO:
+
+2022-12-04 09:55:56,273:INFO:Total Cobalt Strike servers found via port:50050 & hash:-2007783223 is 44
+2022-12-04 09:55:56,273:INFO:Code took 1.273 minutes to execute so far.
+2022-12-04 09:55:56,273:INFO:-----------------------------------------------------------------------------------------
+2022-12-04 09:55:56,273:INFO:
+
+2022-12-04 09:55:57,447:WARNING:No results found for jarm 00014d16d21d21d00042d41d00041df1e57cd0b3bf64d18696fb4fce056610 and default settings. Total count remains the same at 0
+2022-12-04 09:55:58,620:WARNING:No results found for jarm 00014d16d21d21d07c42d41d00041d47e4e0ae17960b2a5b4fd6107fbb0926 and default settings. Total count remains the same at 0
+2022-12-04 09:55:59,770:WARNING:No results found for jarm 05d02d16d04d04d05c05d02d05d04d4606ef7946105f20b303b9a05200e829 and default settings. Total count remains the same at 0
+2022-12-04 09:56:02,670:INFO:Cobalt Strike results from jarm 05d02d20d21d20d05c05d02d05d20dd7fc4c7c6ef19b77a4ca0787979cdc13 and default settings is 1
+2022-12-04 09:56:06,975:INFO:Cobalt Strike results from jarm 05d13d20d21d20d05c05d13d05d20dd7fc4c7c6ef19b77a4ca0787979cdc13 and default settings is 6
+2022-12-04 09:56:08,130:WARNING:No results found for jarm 07d00016d21d21d00042d41d00041df1e57cd0b3bf64d18696fb4fce056610 and default settings. Total count remains the same at 7
+2022-12-04 09:56:09,301:WARNING:No results found for jarm 07d0bd0fd06d06d07c07d0bd07d06d9b2f5869a6985368a9dec764186a9175 and default settings. Total count remains the same at 7
+2022-12-04 09:56:10,478:WARNING:No results found for jarm 07d0bd0fd21d21d07c07d0bd07d21d9b2f5869a6985368a9dec764186a9175 and default settings. Total count remains the same at 7
+2022-12-04 09:56:13,455:INFO:Cobalt Strike results from jarm 07d13d15d21d21d07c07d13d07d21dd7fc4c7c6ef19b77a4ca0787979cdc13 and default settings is 12
+2022-12-04 09:56:15,835:INFO:Cobalt Strike results from jarm 07d14d16d21d21d00007d14d07d21d3fe87b802002478c27f1c0da514dbf80 and default settings is 1
+2022-12-04 09:56:28,218:INFO:Cobalt Strike results from jarm 07d14d16d21d21d00042d41d00041d47e4e0ae17960b2a5b4fd6107fbb0926 and default settings is 224
+2022-12-04 09:56:32,391:INFO:Cobalt Strike results from jarm 07d14d16d21d21d00042d41d00041de5fb3038104f457d92ba02e9311512c2 and default settings is 24
+2022-12-04 09:56:33,558:WARNING:No results found for jarm 07d14d16d21d21d07c07d14d07d21d4606ef7946105f20b303b9a05200e829 and default settings. Total count remains the same at 268
+2022-12-04 09:56:37,663:INFO:Cobalt Strike results from jarm 07d14d16d21d21d07c07d14d07d21d9b2f5869a6985368a9dec764186a9175 and default settings is 60
+2022-12-04 09:56:38,831:WARNING:No results found for jarm 07d14d16d21d21d07c07d14d07d21dee4eea372f163361c2623582546d06f8 and default settings. Total count remains the same at 328
+2022-12-04 09:56:49,297:INFO:Cobalt Strike results from jarm 07d14d16d21d21d07c42d41d00041d24a458a375eef0c576d23a7bab9a9fb1 and default settings is 100
+2022-12-04 09:56:52,915:INFO:Cobalt Strike results from jarm 07d14d16d21d21d07c42d41d00041d58c7162162b6a603d3d90a2b76865b53 and default settings is 8
+2022-12-04 09:56:54,067:WARNING:No results found for jarm 07d14d16d21d21d07c42d43d00041d24a458a375eef0c576d23a7bab9a9fb1 and default settings. Total count remains the same at 436
+2022-12-04 09:56:55,238:WARNING:No results found for jarm 07d19d1ad21d21d00007d19d07d21d25f4195751c61467fa54caf42f4e2e61 and default settings. Total count remains the same at 436
+2022-12-04 09:56:56,394:WARNING:No results found for jarm 15d15d15d3fd15d00042d42d00042d1279af56d3d287bbc5d38e226153ba9e and default settings. Total count remains the same at 436
+2022-12-04 09:57:00,457:INFO:Cobalt Strike results from jarm 15d3fd16d21d21d00042d43d000000fe02290512647416dcf0a400ccbc0b6b and default settings is 26
+2022-12-04 09:57:01,634:WARNING:No results found for jarm 15d3fd16d29d29d00015d3fd15d29d1f9d8d2d24bf6c1a8572e99c89f1f5f0 and default settings. Total count remains the same at 462
+2022-12-04 09:57:04,197:INFO:Cobalt Strike results from jarm 15d3fd16d29d29d00042d43d000000ed1cf37c9a169b41886e27ba8fad60b0 and default settings is 5
+2022-12-04 09:57:11,911:INFO:Cobalt Strike results from jarm 15d3fd16d29d29d00042d43d000000fbc10435df141b3459e26f69e76d5947 and default settings is 13
+2022-12-04 09:57:17,152:INFO:Cobalt Strike results from jarm 15d3fd16d29d29d00042d43d000000fe02290512647416dcf0a400ccbc0b6b and default settings is 51
+2022-12-04 09:57:18,324:WARNING:No results found for jarm 16d16d16d00000022c43d43d00043d370cd49656587484eb806b90846875a0 and default settings. Total count remains the same at 531
+2022-12-04 09:57:24,169:INFO:Cobalt Strike results from jarm 1dd28d28d00028d00042d41d00041df1e57cd0b3bf64d18696fb4fce056610 and default settings is 6
+2022-12-04 09:57:26,523:INFO:Cobalt Strike results from jarm 1dd28d28d00028d1dc1dd28d1dd28d3fe87b802002478c27f1c0da514dbf80 and default settings is 1
+2022-12-04 09:57:27,696:WARNING:No results found for jarm 21b10b00021b21b21b21b10b21b21b3b0d229d76f2fd7cb8e23bb87da38a20 and default settings. Total count remains the same at 538
+2022-12-04 09:57:30,725:INFO:Cobalt Strike results from jarm 21d10d00021d21d21c21d10d21d21d696c1bb221f80034f540b6754152d3b8 and default settings is 6
+2022-12-04 09:57:32,170:WARNING:No results found for jarm 21d19d00021d21d21c42d43d000000624c0617d7b1f32125cdb5240cd23ec9 and default settings. Total count remains the same at 544
+2022-12-04 09:57:38,020:INFO:Cobalt Strike results from jarm 29d29d00029d29d00029d29d29d29de1a3c0d7ca6ad8388057924be83dfc6a and default settings is 20
+2022-12-04 09:57:39,656:WARNING:No results found for jarm 29d29d00029d29d08c29d29d29d29dcd113334714fbefb4b0aba4000bcef62 and default settings. Total count remains the same at 564
+2022-12-04 09:57:44,417:INFO:Cobalt Strike results from jarm 29d29d00029d29d21c29d29d29d29dce7a321e4956e8298ba917e9f2c22849 and default settings is 6
+2022-12-04 09:57:45,591:WARNING:No results found for jarm 29d29d15d29d29d21c29d29d29d29d7329fbe92d446436f2394e041278b8b2 and default settings. Total count remains the same at 570
+2022-12-04 09:57:46,752:WARNING:No results found for jarm 2ad00016d2ad2ad22c42d42d00042ddb04deffa1705e2edc44cae1ed24a4da and default settings. Total count remains the same at 570
+2022-12-04 09:57:49,467:INFO:Cobalt Strike results from jarm 2ad2ad0002ad2ad0002ad2ad2ad2ade1a3c0d7ca6ad8388057924be83dfc6a and default settings is 27
+2022-12-04 09:57:53,538:INFO:Cobalt Strike results from jarm 2ad2ad0002ad2ad00042d42d000000301510f56407964db9434a9bb0d4ee4a and default settings is 59
+2022-12-04 09:57:57,312:INFO:Cobalt Strike results from jarm 2ad2ad0002ad2ad00042d42d0000005d86ccb1a0567e012264097a0315d7a7 and default settings is 50
+2022-12-04 09:58:00,145:INFO:Cobalt Strike results from jarm 2ad2ad0002ad2ad22c2ad2ad2ad2ad6a7bd8f51d54bfc07e1cd34e5ca50bb3 and default settings is 11
+2022-12-04 09:58:03,762:INFO:Cobalt Strike results from jarm 2ad2ad0002ad2ad22c2ad2ad2ad2adce7a321e4956e8298ba917e9f2c22849 and default settings is 31
+2022-12-04 09:58:17,234:INFO:Cobalt Strike results from jarm 2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da and default settings is 412
+2022-12-04 09:58:20,774:INFO:Cobalt Strike results from jarm 2ad2ad16d2ad2ad22c42d42d00042d58c7162162b6a603d3d90a2b76865b53 and default settings is 5
+2022-12-04 09:58:23,606:INFO:Cobalt Strike results from jarm 2ad2ad16d2ad2ad22c42d42d00042de4f6cde49b80ad1e14c340f9e47ccd3a and default settings is 9
+2022-12-04 09:58:26,252:INFO:Cobalt Strike results from jarm 3fd3fd15d3fd3fd00042d42d00000061256d32ed7779c14686ad100544dc8d and default settings is 3
+2022-12-04 09:58:30,460:INFO:Cobalt Strike results from jarm 3fd3fd15d3fd3fd21c3fd3fd3fd3fdc110bab2c0a19e5d4e587c17ce497b15 and default settings is 72
+2022-12-04 09:58:35,720:INFO:Cobalt Strike results from jarm 3fd3fd15d3fd3fd21c42d42d0000006f254909a73bf62f6b28507e9fb451b5 and default settings is 12
+2022-12-04 09:58:35,720:INFO:Code took 3.930 minutes to execute so far.
+2022-12-04 09:58:35,720:INFO:-------------------------------------------------------------------------------------
+2022-12-04 09:58:35,720:INFO:
+
+2022-12-04 09:58:36,164:INFO:Total malicious IPs before dropping duplicates is 3331
+2022-12-04 09:58:36,164:INFO:Total malicious IPs after dropping duplicates is 2047
+2022-12-04 09:58:36,180:INFO:Code took 3.938 minutes to execute.

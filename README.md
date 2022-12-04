@@ -1,4 +1,4 @@
-# Shodan_Pull_Cobalt_Strike_Team_Servers
+# Shodan_Pull_Cobalt_Strike_Team_Servers_and_Metasploit_Servers
 This code will pull Cobalt Strike Team Servers from Shodan's API as well as Metasploit Servers using various criteria.
 I want to thank Mike Koczwara for all his work. You can check him out here: https://michaelkoczwara.medium.com/ and here: https://twitter.com/MichalKoczwara. 
 I want to thank another Mike for pointing me to Shodan. The man has forgotten more knowledge than I currently have. I am grateful for all the knowledge transfer. Mike, if you read this, and you want me to add your last name - let me know. Right now no one is viewing these repositories.

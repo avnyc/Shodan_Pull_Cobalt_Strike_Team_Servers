@@ -7,7 +7,7 @@ I want to thank this github page for their JARM list: https://github.com/carbonb
 I want to thank Shodan for their data. The results are theirs.
 I am currently paying for the Freelancer API. I don't have access to the higher tiers. 
 
-This code will be revamped! This is NOT the final version. I plan on modifying results with the CN field.
+This code will be revamped! This is NOT the final version. I plan on modifying results with the CN field and breaking out the domains for our DNS tool among others.
 
 The code has 6 main functions:
   1. shodan_team_server_basic()

@@ -15,6 +15,6 @@ The code has 7 main functions:
   3. shodan_team_server_watermarks()
   4. shodan_team_server_port_hash()
   5. shodan_team_server_jarm_and_defaults()
-  6. team_server_hostname_aggregator()
-  7. metasploit()
+  6. metasploit()
+  7. hostname_aggregator()
  

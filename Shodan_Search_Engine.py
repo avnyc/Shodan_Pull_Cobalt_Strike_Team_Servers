@@ -28,7 +28,7 @@ class ShodanSearchEngine:
         'ssl.cert.serial:1873433027',  # Cracked version
         'ssl.cert.serial:16777216',    # Cracked version
         'ssl.cert.serial:1359593325',  # Cracked version
-        'ssl.cert.serial:8BB00EE'
+        'ssl.cert.serial:8BB00EE',
         'ssl.6ECE5ECE4192683D2D84E25B0BA7E04F9CB7EB7C'
         ]
 
